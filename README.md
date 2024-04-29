@@ -21,7 +21,7 @@ Rust-ADB is a Rust implementation of the Android Debug Bridge (ADB) library. It 
 - ... and more! The library is designed to cover various ADB functionalities.
 
 ## Installation
-
+nn n
 Add the following dependency to your `Cargo.toml` file:
 
 ```toml
